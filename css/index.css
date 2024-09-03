@@ -1,0 +1,16 @@
+/*
+ * Base structure
+ */
+
+body {
+  position: relative;
+}
+
+.cover-container {
+  max-width: 100em;
+  height: auto;
+}
+
+input[type=radio] {
+      display: none;
+    }
