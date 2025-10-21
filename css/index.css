@@ -11,6 +11,12 @@ body {
   height: auto;
 }
 
+.biography {
+  overflow-wrap: break-word;
+  overflow:hidden;
+  text-align: justify;
+}
+
 input[type=radio] {
       display: none;
     }
